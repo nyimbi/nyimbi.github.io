@@ -9,7 +9,8 @@
 title: Nyimbi's Site
 email: nyimbi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Ruminations, cogitations, projects, code and all kinds of silliness.
+  Ruminations, cogitations, projects, code and all kinds of silliness. There is also a dump for my
+  public domain documents.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: nyimbi

@@ -1,22 +1,21 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "About Nyimbi's Docs"
 date:   2015-11-06 08:35:39 +0300
-categories: jekyll update
+categories: Just Stuff
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+This is a repository for my public domain thoughts and notions. Some of it may be of interest, most of it is of merely historical value to me. I am trying out an experiment of working out in the open. some of the stuff that you will see here are:
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+1. Ruminations: Thought pieces on various subjects
+1. How-To's on various things I have tried to do and need to remember
+1. Bookmarks of interest (Along the lines of (Awesome lists)[https://github.com/sindresorhus/awesome]
+1. Links to projects and code that I have worked on
+1. Lessons learn't and stuff like that
+1. My joke repository (Hahaha)
+1. And whatever else I want to put here :-)
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
