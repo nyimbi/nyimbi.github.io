@@ -1,24 +1,14 @@
 ---
+published: false
+title: The African Mars Programme
 layout: post
-title:  "About Nyimbi's Docs"
-date:   2015-11-06 08:35:39 +0300
-categories: Just Stuff
 ---
-This is a repository for my public domain thoughts and notions. Some of it may be of interest, most of it is of merely historical value to me. I am trying out an experiment of working out in the open. some of the stuff that you will see here are:
+There is intense interest in the planet mars at the moment, everybody except Africa, seems to be headed that way:
 
-1. Ruminations: Thought pieces on various subjects
-1. How-To's on various things I have tried to do and need to remember
-1. Bookmarks of interest (Along the lines of (Awesome lists)[https://github.com/sindresorhus/awesome]
-1. Links to projects and code that I have worked on
-1. Lessons learn't and stuff like that
-1. My joke repository (Hahaha)
-1. And whatever else I want to put here :-)
+1. China is investing significant amounts in it's mars lander program [CNN](http://edition.cnn.com/2015/11/04/asia/china-mars-probe-2020/)
+2. India has launched a mars orbiter [Space.com](http://www.space.com/23203-india-mars-orbiter-mission-photos.html)
+3. The UAE:  Mars Hope [spaceref.com](http://spaceref.com/mars/uae-unveils-mission-plan-for-the-first-arab-space-probe-to-mars.html)
+4. The EU with it's Mars Express Mission [wikipedia.org](http://spaceref.com/mars/uae-unveils-mission-plan-for-the-first-arab-space-probe-to-mars.html)
+And of course all the usual suspects: The USA, and Russia.
 
-
-
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+The ["Mars to Stay"](https://en.wikipedia.org/wiki/Mars_to_Stay) agenda has been gaining ground, with the intention of inhabiting Mars and making mankind a 2 planet species. This seems to me, given that we now know there may be intermittent flows of water on mars [nasa.gov](https://www.nasa.gov/press-release/nasa-confirms-evidence-that-liquid-water-flows-on-today-s-mars)
