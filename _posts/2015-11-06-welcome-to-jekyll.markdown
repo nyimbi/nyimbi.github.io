@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The African Mars Programme
 layout: post
 ---
