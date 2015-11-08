@@ -15,6 +15,7 @@ The ["Mars to Stay"](https://en.wikipedia.org/wiki/Mars_to_Stay) agenda has been
 
 #The future sociology of Mars
 I invite you to contemplate with me the consequences of the colonisation of Mars.
+
 1. What all be the composition/structure of the Mars colony of the future, given the current momentum of progress on Earth? 
 1. Who will these people be? 
 1. Will African's be represented? 
